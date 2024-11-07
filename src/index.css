@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@1,800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Outfit", sans-serif;
+  overflow-x: hidden;
+}
+
+.glow {
+  width: 0px;
+  height: 0px;
+  border-radius: 50%;
+  box-shadow: 0 0 200px 130px #b9fd50;
+}
+
+@media screen and (min-width: 768px) {
+  .glow {
+    width: 0px;
+    height: 0px;
+    border-radius: 50%;
+    box-shadow: 0 0 1000px 200px #b8fd50af;
+  }
+}

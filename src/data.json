@@ -1,0 +1,245 @@
+{
+  "designData": [
+    {
+      "title": "Subscribe & get started",
+      "name": "Subscribe",
+      "src": "./assets/design/design01.svg",
+      "caption": "Submit as many design tasks as you need without worrying about individual project fees."
+    },
+    {
+      "title": "Polished designs - on time",
+      "name": "Polished designs",
+      "src": "./assets/design/design02.svg",
+      "caption": "Our designers get to work to deliver your request. Receive your design within a few days."
+    },
+    {
+      "title": "Revisions made simple",
+      "name": "Polished designs",
+      "src": "./assets/design/design03.svg",
+      "caption": "Custom designs, prompt replies and as many revisions as you need."
+    }
+  ],
+  "brandsLogo": [
+    { "name": "Layers", "src": "./assets/brands/brand01.svg" },
+    { "name": "Quotient", "src": "./assets/brands/brand02.svg" },
+    { "name": "Circooles", "src": "./assets/brands/brand03.svg" },
+    { "name": "Hooglass", "src": "./assets/brands/brand04.svg" },
+    { "name": "Command+R", "src": "./assets/brands/brand05.svg" }
+  ],
+  "worksImages": [
+    { "src": "./assets/beautifulworks/edo.svg", "alt": "Edo Logo" },
+    { "src": "./assets/beautifulworks/dfat.svg", "alt": "DFAT Logo" },
+    { "src": "./assets/beautifulworks/insights.svg", "alt": "Insights Logo" },
+    { "src": "./assets/beautifulworks/oxfam.svg", "alt": "Oxfam Logo" },
+    { "src": "./assets/beautifulworks/cvgt.svg", "alt": "CVGT Logo" },
+    {
+      "src": "./assets/beautifulworks/dropbottle.svg",
+      "alt": "Dropbottle Logo"
+    },
+    { "src": "./assets/beautifulworks/map.svg", "alt": "Map Logo" },
+    { "src": "./assets/beautifulworks/unwrapped.svg", "alt": "Unwrapped Logo" },
+    { "src": "./assets/beautifulworks/RWH.svg", "alt": "RWH Logo" },
+    { "src": "./assets/beautifulworks/bluegreen.svg", "alt": "Bluegreen Logo" },
+    {
+      "src": "./assets/beautifulworks/welcomehome.svg",
+      "alt": "Welcome Home Logo"
+    },
+    { "src": "./assets/beautifulworks/ader.svg", "alt": "Ader Logo" }
+  ],
+  "capabilitiesButtons": [
+    {
+      "name": "Web design & UI"
+    },
+    {
+      "name": "Social media visuals"
+    },
+    {
+      "name": "Infographics"
+    },
+    {
+      "name": "Design system"
+    },
+    {
+      "name": "Email design"
+    },
+    {
+      "name": "Stationery"
+    },
+    {
+      "name": "Icons"
+    },
+    {
+      "name": "Packaging & merch"
+    },
+    {
+      "name": "Signage"
+    },
+    {
+      "name": "Brochures"
+    },
+    {
+      "name": "Logos & branding"
+    },
+    {
+      "name": "Digital ads"
+    },
+    {
+      "name": "Wireframes"
+    }
+  ],
+  "capabilitiesCards": [
+    {
+      "title": "1. On-demand requests",
+      "description": "Put all your requests in the design queue in Trello, and we'll knock them out 1 by 1.",
+      "image": "./assets/capabilities/capabilities01.svg"
+    },
+    {
+      "title": "2. Top-notch quality",
+      "description": "High-end work from a dedicated team of senior designers that's always available when you need it.",
+      "image": "./assets/capabilities/capabilities02.svg"
+    },
+    {
+      "title": "3. Powered by - Webflow",
+      "description": "We build every site on Webflow, making them dynamic, accessible, and easily scalable. It's easy for you like Squarespace but better.",
+      "image": "./assets/capabilities/capabilities03.svg"
+    },
+    {
+      "title": "4. Fast. Responsive. Reliable.",
+      "description": "Get regular updates on your projects and can expect to receive your designs within 2-3 days.",
+      "image": "./assets/capabilities/capabilities04.svg"
+    },
+    {
+      "title": "5. No Lock in contracts",
+      "description": "Pay the same every month, no surprises. You can use it for as long as you want and cancel anytime.",
+      "image": "./assets/capabilities/capabilities05.svg"
+    },
+    {
+      "title": "6. Great value for money",
+      "description": "Get the power of dedicated design team at fraction of the cost of full-time employee. ($54k/yr vs. $112k/yr).",
+      "image": "./assets/capabilities/capabilities06.svg"
+    },
+    {
+      "title": "7. Customized for you",
+      "description": "We design and build custom for you. We're never starting from a template unless you want that? You don't, right?",
+      "image": "./assets/capabilities/capabilities07.svg"
+    },
+    {
+      "title": "8. Creative paying",
+      "description": "We're here when you need us and not on payroll when you don't.",
+      "image": "./assets/capabilities/capabilities08.svg"
+    },
+    {
+      "title": "9. Expert turnovers",
+      "description": "You're getting 10+ years of design experience with every request. No hand-holding required.",
+      "image": "./assets/capabilities/capabilities09.svg"
+    }
+  ],
+  "pricingCards": [
+    {
+      "title": "Standard",
+      "badge": "Most Popular",
+      "description": "One request at a time. For companies who need on-going design support.",
+      "price": "$2,995/m",
+      "note": "Pause or cancel anytime",
+      "star": "./assets/star_card.svg",
+      "features": [
+        "1x active task at a time",
+        "Unlimited revisions",
+        "Dedicated project manager",
+        "Daily comms through Slack",
+        "Work with senior designers",
+        "2-3 days turn around time",
+        "Top tier design"
+      ]
+    },
+    {
+      "title": "Growth",
+      "badge": "Best value",
+      "description": "Double the requests. For companies with increasing design needs. Limited spots.",
+      "price": "$4,795/m",
+      "note": "Pause or cancel anytime",
+      "star": "./assets/star_card.svg",
+      "features": [
+        "2x active task at a time",
+        "Unlimited revisions",
+        "Dedicated project manager",
+        "Daily comms through Slack",
+        "Work with senior designers",
+        "2-3 days turn around time",
+        "Top tier design"
+      ]
+    },
+    {
+      "title": "Basic - Weekly",
+      "description": "Perfect if you want to try the subscription out or only have a few one-off tasks.",
+      "price": "$890/m",
+      "note": "Paid per weekly",
+      "star": "./assets/star_card.svg",
+      "features": [
+        "Fixed Scope of work",
+        "2 rounds of revisions",
+        "Dedicated project manager",
+        "Daily comms through Slack",
+        "1x designer",
+        "2-5 days turn around time",
+        "Top tier design"
+      ]
+    }
+  ],
+  "NewsArticlesCards": [
+    {
+      "image": "./assets/news_articles/news01.svg",
+      "category": "Branding",
+      "title": "The Importance of Branding in Business",
+      "description": "Effective branding can elevate your business and..."
+    },
+    {
+      "image": "./assets/news_articles/news02.svg",
+      "category": "TikTok",
+      "title": "TikTok Marketing Strategies",
+      "description": "Learn the latest TikTok strategies to boost your brand..."
+    },
+    {
+      "image": "./assets/news_articles/news03.svg",
+      "category": "Logo Design",
+      "title": "Designing a Memorable Logo",
+      "description": "Explore principles of designing a logo that stands out..."
+    },
+    {
+      "image": "./assets/news_articles/news04.svg",
+      "category": "FB",
+      "title": "Maximizing Facebook Ads ROI",
+      "description": "Tips to maximize your ROI with Facebook Ads..."
+    },
+    {
+      "image": "./assets/news_articles/news05.svg",
+      "category": "AI",
+      "title": "AI in Modern Marketing",
+      "description": "AI is revolutionizing marketing and improving engagement..."
+    },
+    {
+      "image": "./assets/news_articles/news06.svg",
+      "category": "NFT",
+      "title": "Understanding NFTs",
+      "description": "A guide to NFTs and how they're transforming digital art..."
+    }
+  ],
+  "faqData": [
+    {
+      "question": "Do you have specific pricing plans to show?",
+      "answer": "Yes, we offer a variety of pricing plans tailored to meet different needs. Contact us for more details."
+    },
+    {
+      "question": "How many years of experience do you have?",
+      "answer": "We have over 10 years of experience in providing top-notch services to our clients."
+    },
+    {
+      "question": "What companies have you worked with?",
+      "answer": "We have collaborated with a wide range of companies, including Fortune 500 firms and innovative startups."
+    },
+    {
+      "question": "Am I safe leaving my company in your hands?",
+      "answer": "Absolutely. Our team is dedicated to ensuring the safety and success of your company through our expert services."
+    }
+  ]
+}
