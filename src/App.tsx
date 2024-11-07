@@ -8,6 +8,8 @@ import Testimonial from "./section/Testimonial";
 import Pricing from "./section/Pricing";
 import NewsArticles from "./section/NewsArticles";
 import FAQ from "./section/FAQ";
+import Footer from "./section/Footer";
+import ScrollToTopButton from "./components/ui/ScrollToTopButton";
 export default function App() {
   return (
     <div className="bg-background">
@@ -41,6 +43,10 @@ export default function App() {
           <FAQ />
         </div>
       </div>
+      <div className="mx-auto max-w-7xl">
+        <Footer />
+      </div>
+      <ScrollToTopButton />
     </div>
   );
 }
