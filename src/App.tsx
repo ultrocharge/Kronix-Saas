@@ -6,6 +6,7 @@ import BeautifulWorks from "./section/BeautifulWorks";
 import Capabilities from "./section/Capabilities";
 import Testimonial from "./section/Testimonial";
 import Pricing from "./section/Pricing";
+import NewsArticles from "./section/NewsArticles";
 export default function App() {
   return (
     <div className="bg-background">
@@ -32,6 +33,7 @@ export default function App() {
       </div>
       <div className="mx-auto max-w-7xl">
         <Pricing />
+        <NewsArticles />
       </div>
     </div>
   );
