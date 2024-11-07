@@ -7,6 +7,7 @@ import Capabilities from "./section/Capabilities";
 import Testimonial from "./section/Testimonial";
 import Pricing from "./section/Pricing";
 import NewsArticles from "./section/NewsArticles";
+import FAQ from "./section/FAQ";
 export default function App() {
   return (
     <div className="bg-background">
@@ -34,6 +35,11 @@ export default function App() {
       <div className="mx-auto max-w-7xl">
         <Pricing />
         <NewsArticles />
+      </div>
+      <div className="bg-white">
+        <div className="mx-auto max-w-7xl">
+          <FAQ />
+        </div>
       </div>
     </div>
   );
