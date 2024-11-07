@@ -3,6 +3,7 @@ import Hero from "./section/Hero";
 import Brands from "./section/Brands.tsx";
 import HowItWorks from "./section/HowItWork";
 import BeautifulWorks from "./section/BeautifulWorks";
+import Capabilities from "./section/Capabilities";
 export default function App() {
   return (
     <div className="bg-background">
@@ -18,6 +19,9 @@ export default function App() {
         <div className="mx-auto max-w-7xl">
           <BeautifulWorks />
         </div>
+      </div>
+      <div className="mx-auto max-w-7xl">
+        <Capabilities />
       </div>
     </div>
   );
